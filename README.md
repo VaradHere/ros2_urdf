@@ -51,6 +51,11 @@ Launch the robot state publisher and joint state publisher GUI using:
 ros2 launch assingment7 ass7.launch.xml
 ```
 
+In New Terminal just run this 
+
+```bash
+rviz2
+```
 This command initializes RViz and displays your robot's joints, allowing you to interact with the robot model.
 
 ## Contributors
